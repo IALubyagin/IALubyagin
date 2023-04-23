@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### &nbsp;About Me :
+- I am a Data Analist from Rostov-on-Don, Russia.
+- I’m currently learning in SkyPro
