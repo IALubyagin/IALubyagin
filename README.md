@@ -10,7 +10,6 @@
 
 ### Connect with me:
 <p align="left">
-<!-- a href="https://t.me/wa1pper" target="blank"><img align="center" src="https://github.com/IALubyagin/IALubyagin/blob/da235e1d94d37d1b11e4880eca2b60e3731b75b3/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a -->
 <a href="https://t.me/igorlubyagin" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="IALubyagin" height="40" width="40" /></a>
 <a href="https://vk.com/daniilshat" target="blank"><img align="center" src="https://github.com/IALubyagin/IALubyagin/blob/df6111444898de81e3cc724e4c6980e4ffcadc33/icons/vk.svg" alt="daniilshat" height="40" width="40" /></a>
 </p>
