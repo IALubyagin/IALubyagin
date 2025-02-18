@@ -24,11 +24,11 @@
 
 ### Tools:
 <p align="left"> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/flat_linux.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Bash.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
-<!-- a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/gitkraken.svg" alt="git" width="40" height="40"/> </a --> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IALubyagin/IALubyagin/blob/49935c92bea8d7bf9709a194a751f9add1343ae3/icons/flat_linux.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/IALubyagin/IALubyagin/blob/49935c92bea8d7bf9709a194a751f9add1343ae3/icons/Bash.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IALubyagin/IALubyagin/blob/49935c92bea8d7bf9709a194a751f9add1343ae3/icons/git.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IALubyagin/IALubyagin/blob/49935c92bea8d7bf9709a194a751f9add1343ae3/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IALubyagin/IALubyagin/blob/49935c92bea8d7bf9709a194a751f9add1343ae3/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/gitkraken.svg" alt="git" width="40" height="40"/> </a> 
 <!-- a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="30" height="40"/> </a --> 
 </p>
