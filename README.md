@@ -11,7 +11,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/igorlubyagin" target="blank"><img align="center" src="https://github.com/IALubyagin/IALubyagin/blob/ecad136fbfb0dc9183661fd1888ca8b35f87b794/icons/Telegram.svg" alt="IALubyagin" height="40" width="40" /></a>
-<a href="https://vk.com/daniilshat" target="blank"><img align="center" src="https://github.com/IALubyagin/IALubyagin/blob/df6111444898de81e3cc724e4c6980e4ffcadc33/icons/vk.svg" alt="IALubyagin" height="40" width="40" /></a>
+<a href="http://vk.com/id205995248" target="blank"><img align="center" src="https://github.com/IALubyagin/IALubyagin/blob/df6111444898de81e3cc724e4c6980e4ffcadc33/icons/vk.svg" alt="IALubyagin" height="40" width="40" /></a>
 </p>
 
 ### Languages:
