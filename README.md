@@ -23,7 +23,7 @@
 
 ### Tools:
 <p align="left"> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IALubyagin/IALubyagin/blob/49935c92bea8d7bf9709a194a751f9add1343ae3/icons/flat_linux.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IALubyagin/IALubyagin/blob/49935c92bea8d7bf9709a194a751f9add1343ae3/icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/IALubyagin/IALubyagin/blob/49935c92bea8d7bf9709a194a751f9add1343ae3/icons/Bash.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IALubyagin/IALubyagin/blob/49935c92bea8d7bf9709a194a751f9add1343ae3/icons/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IALubyagin/IALubyagin/blob/49935c92bea8d7bf9709a194a751f9add1343ae3/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
