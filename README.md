@@ -2,11 +2,11 @@
 <h2 align="center">AI and Neural Networks student</h2>
 
 
-- 🌱 I’m currently learning **Python, Data Science, AI, Neural Networks, Computer Vision**
+- I’m currently learning **Python, Data Science, AI, Neural Networks, Computer Vision**
 
-- 📫 How to reach me: **hammavet@hotmail.com**
+- How to reach me: **hammavet@hotmail.com**
 
-- 🌍 I speak Russian (native), English (B2)
+- I speak Russian (native), English (B2)
 
 ### Connect with me:
 <p align="left">
@@ -14,7 +14,6 @@
 <a href="https://vk.com/daniilshat" target="blank"><img align="center" src="https://github.com/IALubyagin/IALubyagin/blob/df6111444898de81e3cc724e4c6980e4ffcadc33/icons/vk.svg" alt="IALubyagin" height="40" width="40" /></a>
 </p>
 
-<!-- ?token=GHSAT0AAAAAAC7BQPQOYQAMS7BRDV3SDBBIZ5TRW3A -->
 ### Languages:
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IALubyagin/IALubyagin/blob/49935c92bea8d7bf9709a194a751f9add1343ae3/icons/C.svg" alt="c" width="40" height="40"/> </a> 
@@ -29,6 +28,5 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IALubyagin/IALubyagin/blob/49935c92bea8d7bf9709a194a751f9add1343ae3/icons/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IALubyagin/IALubyagin/blob/49935c92bea8d7bf9709a194a751f9add1343ae3/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IALubyagin/IALubyagin/blob/49935c92bea8d7bf9709a194a751f9add1343ae3/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/gitkraken.svg" alt="git" width="40" height="40"/> </a> 
 <!-- a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="30" height="40"/> </a --> 
 </p>
