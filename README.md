@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="/" target="_blank">Igor</a> </h1>
-<h2 align="center">AI and Neural Networks student</h2>
+<h3 align="center">AI and Neural Networks student</h3>
 
 
 - I’m currently learning **Python, Data Science, AI, Neural Networks, Computer Vision**
